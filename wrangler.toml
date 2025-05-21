@@ -1,0 +1,5 @@
+name = "utm-cache-worker"
+type = "javascript"
+account_id = "6250142bb65c2df05cbe2987d8b4dfb3"
+workers_dev = true
+compatibility_date = "2025-05-20"
